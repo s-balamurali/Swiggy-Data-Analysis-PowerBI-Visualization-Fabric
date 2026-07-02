@@ -190,7 +190,7 @@ The dashboard helps business users answer questions such as:
 
 ```markdown
 
-![Dashboard Preview](https://raw.githubusercontent.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/main/Swiggy_Data_Analysis_DashBoard.png)
+![Dashboard Preview](https://github.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/blob/main/Swiggy_Data_Analysis_DashBoard.png)
 ```
 
 ---
