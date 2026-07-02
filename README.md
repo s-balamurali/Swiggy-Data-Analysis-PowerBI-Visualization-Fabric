@@ -188,20 +188,12 @@ The dashboard helps business users answer questions such as:
 
 # 📷 Dashboard Preview
 
-```
-images/dashboard.png
-```
-
-Example:
-
 ```markdown
 
 ![Dashboard Preview](https://raw.githubusercontent.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/main/Swiggy_Data_Analysis_DashBoard.png)
 ```
 
 ---
-
-
 
 # 🚀 Project Workflow
 
