@@ -195,7 +195,7 @@ images/dashboard.png
 Example:
 
 ```markdown
-![Dashboard](https://raw.githubusercontent.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/main/Swiggy_Data_Analysis_DashBoard.png)
+[![Swiggy Dashboard](https://raw.githubusercontent.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/main/Swiggy_Data_Analysis_DashBoard.png)](https://raw.githubusercontent.com/s-balamurali/Swiggy-Data-Analysis-PowerBI-Visualization-Fabric/main/Swiggy_Data_Analysis_DashBoard.png)
 ```
 
 ---
